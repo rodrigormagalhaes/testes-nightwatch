@@ -9,7 +9,7 @@ npm install -g nightwatch
     - Informar o caminho do jar na tag "server_path" do arquivo nightwatch.json
 
 - Download chromedriver: http://chromedriver.chromium.org/downloads
-    - Informar o caminho do chromerdriver na tag "webdriver.chrome.driver" do arquivo nightwatch.json
+    - Informar o caminho do chromedriver na tag "webdriver.chrome.driver" do arquivo nightwatch.json
 
 - Executar testes:
 ```sh
